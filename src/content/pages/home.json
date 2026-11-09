@@ -6,10 +6,10 @@
   "hero": {
     "eyebrow": "تمرین مکالمه زبان انگلیسی با:",
     "title": "آکادمی همراه",
-    "titleMuted": " درکنار شما در مسیر یادگیری زبان انگلیسی و زندگی در انگلستان",
+    "titleMuted": "همراه شما در مسیر یادگیری زبان انگلیسی",
     "description": "همرا و زکریا هستیم؛ برادرانی که در کنار شما قدم برمیداریم تا مطمئن شویم می توانید با اعتماد به نفس انگلیسی صحبت می کنید.",
     "button": {
-      "href": "/contact",
+      "href": "/register",
       "label": "رزرو کلاس رایگان"
     },
     "background": "/assets/home/hero-fabric.webp",
@@ -129,25 +129,25 @@
     "body": "خیلی سریع می توانید در مورد خدمات زبان انگلیسی ما اطلاعات کسب کرده و در صورت رضایت در این کلاس ها شرکت کنید.",
     "steps": [
       {
-        "title": "زمان کلاس رایگان را انتخاب کنید",
+        "title": "1. زمان کلاس رایگان را انتخاب کنید",
         "description": "در چند ثانیه یک زمان مناسب انتخاب کنید. هر نفر یک کلاس رایگان دارد.",
         "image": "/assets/home/step-reads.webp",
         "imageAlt": "Light radiating from a single point"
       },
       {
-        "title": "در کلاس رایگان شرکت کنید",
+        "title": "2. در کلاس رایگان شرکت کنید",
         "description": "در یک جلسه‌ی حدود 20 دقیقه‌ای، یک موقعیت واقعی را با هم تمرین می‌کنیم و سطح شما را می‌سنجیم.",
         "image": "/assets/home/step-sorts.webp",
         "imageAlt": "Fine parallel threads fanning out"
       },
       {
-        "title": "نیازتان را بگویید و برنامه‌تان را انتخاب کنید",
+        "title": "3. نیازتان را بگویید و برنامه‌تان را انتخاب کنید",
         "description": "در پایان کلاس با هم درباره‌ی نیازهای شما حرف می‌زنیم و مناسب‌ترین برنامه را پیشنهاد می‌دهیم.",
         "image": "/assets/home/step-answers.webp",
         "imageAlt": "Soft folds catching light"
       },
       {
-        "title": "دوره شروع می‌شود",
+        "title": "4. دوره شروع می‌شود",
         "description": "زمان جلسه‌ها را طوری تعیین می‌کنیم که برای شما و برای ما مناسب باشد، از جمله شب‌ها و آخر هفته‌ها.",
         "image": "/assets/home/step-hands-over.webp",
         "imageAlt": "Two surfaces meeting at an edge"

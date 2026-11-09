@@ -7,38 +7,38 @@
       { "href": "/blog", "label": "وبلاگ" }
     ],
     "login": { "href": "/contact", "label": "تماس با ما" },
-    "demo": { "href": "/contact", "label": "ثبت نام" }
+    "demo": { "href": "/register", "label": "ثبت نام" }
   },
   "cta": {
     "headingMuted": "آکادمی همراه ",
     "heading": "در کنار شماست در هر قدم یادگیری و استفاده از زبان انگلیسی در زندگی روزمره",
     "description": "همین الان می توانید کلاس آزمایشی تان را به صورت رایگان رزرو کنید",
-    "button": { "href": "/contact", "label": "ثبت نام" },
+    "button": { "href": "/register", "label": "ثبت نام" },
     "image": "/assets/site/handshake-particles.webp",
     "imageAlt": "Two figures made of light particles shaking hands over a particle field"
   },
   "footer": {
     "columns": [
-      { "label": "Explore", "links": [
-        { "href": "/about", "label": "About" },
-        { "href": "/pricing", "label": "Pricing" },
-        { "href": "/contact", "label": "Contact" },
-        { "href": "/blog", "label": "Blog" }
+      { "label": "بیشتر بخوانید", "links": [
+        { "href": "/about", "label": "درباره ما" },
+        { "href": "/pricing", "label": "تعرفه ها" },
+        { "href": "/contact", "label": "تماس با ما" },
+        { "href": "/blog", "label": "وبلاگ" }
       ] },
-      { "label": "Contact", "links": [
-        { "href": "mailto:hello@example.com", "label": "hello@example.com" },
-        { "href": "tel:+15555550123", "label": "+1 555 555 0123" }
+      { "label": "تماس با ما", "links": [
+        { "href": "mailto:hamrah.ac.eng@gmail.com", "label": "hamrah.ac.eng@gmail.com" },
+        { "href": "tel:+905385681917", "label": "+90 538 568 1917" }
       ] },
-      { "label": "Legal", "links": [
-        { "href": "/privacy", "label": "Privacy policy" },
-        { "href": "/terms", "label": "Terms & Conditions" }
+      { "label": "حقوقی", "links": [
+        { "href": "/privacy", "label": "سیاست حفظ حریم خصوصی" },
+        { "href": "/terms", "label": "شرایط و ضوابط" }
       ] },
-      { "label": "Social", "links": [
-        { "href": "https://x.com", "label": "Twitter (X)", "external": true },
-        { "href": "https://www.linkedin.com", "label": "LinkedIn", "external": true }
+      { "label": "شبکه های اجتماعی", "links": [
+        { "href": "https://x.com", "label": "توییتر (X)", "external": true },
+        { "href": "https://www.linkedin.com", "label": "لینکدین", "external": true }
       ] }
     ],
-    "copyright": "© 2026 Lapse.",
-    "note": "Replies retain their source article."
+    "copyright": "© 2026 آکادمی همراه.",
+    "note": "همراه شما در مسیر یادگیری زبان انگلیسی."
   }
 }

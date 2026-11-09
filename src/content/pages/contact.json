@@ -20,14 +20,14 @@
     },
     "note": "ما فقط برای پاسخ دادن به شما از این فرم استفاده می کنیم و نه چیز دیگه ای."
   },
-  "email": { "label": "Email", "value": "hamrah.ac.eng@gmail.com", "href": "mailto:hamrah.ac.eng@gmail.com" },
-  "phone": { "label": "Phone", "value": "+1 555 555 0123", "href": "tel:+15555550123" },
+  "email": { "label": "ایمیل", "value": "hamrah.ac.eng@gmail.com", "href": "mailto:hamrah.ac.eng@gmail.com" },
+  "phone": { "label": "تلفن", "value": "+90 538 568 1917", "href": "tel:+905385681917" },
   "next": {
-    "title": "What happens next",
+    "title": "بعدش چی میشه",
     "steps": [
-      "We read it and reply ourselves. No form robot, no sequence.",
-      "If it looks like a fit, we connect one inbox and sync your help centre.",
-      "Two weeks in shadow mode. It drafts, you sign, nothing sends without you."
+      "ما پیام تون رو می خوانیم و خودمان به شخصه بهتون جواب میدیم، بدون استفاده از ربات یا هوش مصنوعی.",
+      "موضوع شما رو دقیقا بررسی می کنیم و تلاش خودمون رو می کنیم که بتونیم به شما به بهترین شکل کمک کنیم.",
+      "مطمئن میشیم که در کوتاه ترین زمان ممکن بهتون پاسخ بدیم و نیاز های شما رو برطرف کنیم."
     ]
   }
 }
